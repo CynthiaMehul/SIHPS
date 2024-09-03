@@ -24,8 +24,11 @@ Ministry of Law and Justice
 
 ## Proposed Solution / Architecture Diagram
 
+![Case Filing](https://github.com/user-attachments/assets/f77ad57d-aac0-448b-9af1-f6559375880f)
 
 ## Use Cases
+
+![image](https://github.com/user-attachments/assets/37ebebed-71bb-495f-9b9d-1c0829441612)
 
 
 ## Technology Stack
