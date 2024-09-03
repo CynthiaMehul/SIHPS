@@ -29,7 +29,13 @@ Ministry of Law and Justice
 
 
 ## Technology Stack
-
+Nodemailer (For sending emails)
+Node.js (AI powered search engines)
+Elasticsearch (for extensive matching algorithms)
+Python (Chatbot development)
+React.js (Website creation)
 
 ## Dependencies
-
+App development: 10 days. (Budget: Rs.30,000)
+Website development: 10 days. (Budget: Rs.20,000)
+Feeding data: 10 days. Budget: (Rs.10,000)
